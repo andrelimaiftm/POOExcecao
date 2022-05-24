@@ -11,6 +11,7 @@ public class MatematicaTeste {
         }catch (Exception e){
             System.out.println("Houve um erro: ");
             System.out.println("Divisão por zero");
+            //System.out.println(e.getMessage());
             //e.printStackTrace();
         }
 
